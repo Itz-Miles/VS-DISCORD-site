@@ -44,15 +44,17 @@ p {
     color: #fff;
     font-family: 'Uni Sans Heavy', Arial, sans-serif;
     font-size: 16px;
-    height: 1.5em; /* Set the height to 1 line */
+    height: 1.5em;
     padding: 10px;
     width: 100%;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
-    line-height: 1.5em; /* Set the line-height to vertically center the text */
+    line-height: 1.5em;
 }
 
 
 .message-panel button {
+    display: flex;
+    justify-content: center;
     width: 15%;
     height: 2em;
     background-color: black;
@@ -73,5 +75,4 @@ p {
   .message-panel button:hover {
     background-color: white;
     color: black;
-    /* border-color: black; */
   }
