@@ -20,6 +20,7 @@ p {
     margin: 0 auto;
     text-align: justify;
     text-shadow: 0 0 3px white;
+    word-break: normal;
 }
 .message-panel {
     background-color: black;
@@ -49,6 +50,7 @@ p {
     width: 100%;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
     line-height: 1.5em;
+    overflow: hidden;
 }
 
 
@@ -76,3 +78,25 @@ p {
     background-color: white;
     color: black;
   }
+
+  @media (max-width: 600px) {
+    body {
+      font-size: 1.2em;
+    }
+
+    .message-panel {
+      width: 90%;
+      height: 4.5vh;
+    }
+    .message-panel textarea {
+      font-size: 1.2rem;
+		resize: none;
+    }
+    .message-panel button {
+        height: 1.7em;
+    }
+    .message-panel textarea {
+        height: 1.3em;
+    }
+  }
+  

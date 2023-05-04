@@ -4,6 +4,6 @@ function redirectToExecutable() {
     const message = messageBox.value.toLowerCase().trim(); //lower it, just in-case
     
     if (message === "play") {
-      window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; //tell the page MILES SENT YA
+      window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; //tell the page MILES SENT YA (will redirect to game when i finish it)
     }
   }
