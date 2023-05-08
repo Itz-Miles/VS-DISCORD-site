@@ -81,10 +81,10 @@ p {
     line-height: 1em;
     
 }
-  .message-panel button:hover {
+.message-panel button:hover {
     background-color: white;
     color: black;
-  }
+ }
 
   @media (max-width: 600px) {
     body {
