@@ -1,0 +1,69 @@
+{
+	"storyName": "week 1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Channel",
+			"micupclyde",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"Pinged",
+			"micupclyde",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"Mic-Up",
+			"clydepissed",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"Finale",
+			"clydepissed",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"Interstellar",
+			"wumpus",
+			[
+				6,
+				133,
+				255
+			]
+		]
+
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "songs"
+}
