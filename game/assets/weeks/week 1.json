@@ -1,0 +1,68 @@
+{
+	"storyName": "week 1",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"channel",
+			"micupclyde",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"pinged",
+			"micupclyde",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"mic-Up",
+			"clydepissed",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"finale",
+			"clydepissed",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"interstellar",
+			"wumpus",
+			[
+				6,
+				133,
+				255
+			]
+		]
+
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week 1"
+}
