@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD:game/assets/weeks/freeplay.json
 	"storyName": "freeplay",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "freeplay",
-=======
-	"storyName": "week 1",
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "week 1",
->>>>>>> bd8b35fe94c821d69f13528d4f807e4f3e17c743:game/assets/weeks/week 1.json
 	"freeplayColor": [
 		146,
 		113,
@@ -71,9 +64,5 @@
 		"gf"
 	],
 	"hiddenUntilUnlocked": false,
-<<<<<<< HEAD:game/assets/weeks/freeplay.json
 	"weekName": "freeplay"
-=======
-	"weekName": "week 1"
->>>>>>> bd8b35fe94c821d69f13528d4f807e4f3e17c743:game/assets/weeks/week 1.json
 }

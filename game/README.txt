@@ -104,7 +104,7 @@ lime build mac
 Versus Discord is not an official Discord product. Not approved by or assosiated with Discord.inc
 
 ## Versus Discord Team
-* Miles Fuqua - Frontend-Backend Developer <img src="./assets/shared/images/icons/miles.png" width="16">
+* Miles Fuqua - Developer/Parallax3D <img src="./assets/shared/images/icons/miles.png" width="16">
 * github - [contributors](https://github.com/Itz-Miles/VS-Discord/graphs/contributors) <img src= "./assets/shared/images/icons/github.png" width="16">
 * the rest of the team
 
