@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-space.png">
+<SubTexture name="idle0000" x="398" y="1334" width="316" height="394"/>
+<SubTexture name="idle0001" x="1081" y="1334" width="306" height="387"/>
+<SubTexture name="idle0002" x="1413" y="809" width="297" height="401"/>
+<SubTexture name="idle0003" x="680" y="922" width="288" height="406"/>
+<SubTexture name="singRIGHT0000" x="969" y="922" width="308" height="406"/>
+<SubTexture name="singRIGHT0001" x="1413" y="405" width="308" height="404"/>
+<SubTexture name="singLEFT0000" x="0" y="922" width="342" height="412"/>
+<SubTexture name="singLEFT0001" x="342" y="922" width="338" height="407"/>
+<SubTexture name="singDOWN0000" x="1387" y="1334" width="356" height="383"/>
+<SubTexture name="singDOWN0001" x="714" y="1334" width="367" height="389"/>
+<SubTexture name="singUP0000" x="1071" y="0" width="341" height="438"/>
+<SubTexture name="singUP0001" x="1071" y="438" width="339" height="426"/>
+<SubTexture name="RIGHTmiss0000" x="0" y="473" width="308" height="449"/>
+<SubTexture name="RIGHTmiss0001" x="308" y="473" width="307" height="443"/>
+<SubTexture name="LEFTmiss0000" x="729" y="0" width="342" height="455"/>
+<SubTexture name="LEFTmiss0001" x="615" y="473" width="346" height="442"/>
+<SubTexture name="DOWNmiss0000" x="1413" y="0" width="371" height="405"/>
+<SubTexture name="DOWNmiss0001" x="0" y="1334" width="398" height="400"/>
+<SubTexture name="UPmiss0000" x="0" y="0" width="360" height="473"/>
+<SubTexture name="UPmiss0001" x="360" y="0" width="369" height="467"/>
+</TextureAtlas>

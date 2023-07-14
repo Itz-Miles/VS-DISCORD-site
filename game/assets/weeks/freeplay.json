@@ -1,0 +1,71 @@
+{
+	"storyName": "freeplay",
+	"hideFreeplay": false,
+	"weekBefore": "freeplay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pinged",
+			"menuface",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"channel",
+			"menuface",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"confrontation",
+			"menuface",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"mic-Up",
+			"menuface",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"finale",
+			"menuface",
+			[
+				88,
+				101,
+				242
+			]
+		],
+		[
+			"interstellar",
+			"menuface",
+			[
+				6,
+				133,
+				255
+			]
+		]
+
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "freeplay"
+}
