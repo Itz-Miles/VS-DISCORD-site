@@ -38,7 +38,7 @@ p {
     justify-content: space-between;
     padding: 10px;
     position: fixed;
-    bottom: 20px;
+    bottom: 47px;
     left: 50%;
     transform: translateX(-50%);
     width: 80%;
@@ -106,5 +106,23 @@ p {
         height: 1.3em;
     }
   }
-  
-  
+  .hit-count {
+    background-color: black;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.2);
+  }
+
+  .hit-count a{
+    color:white;
+  }
